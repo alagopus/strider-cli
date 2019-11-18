@@ -18,21 +18,21 @@
   "homepage": "https://github.com/Strider-CD/strider-cli",
   "dependencies": {
     "bluebird": "^3.4.7",
-    "chokidar": "^0.9.0",
+    "chokidar": "^2.1.8",
     "cli-table": "^0.3.0",
     "colors": "^1.1.2",
     "debug": "^2.1.1",
-    "glob": "^4.0.6",
-    "lodash": "^2.4.1",
+    "glob": "^7.1.6",
+    "lodash": "^4.17.15",
     "nomnom": "^1.8.0",
     "prompt": "^0.2.14",
     "pw": "0.0.4",
     "rimraf": "^2.2.8",
     "spawn-cmd": "0.0.2",
     "step": "0.0.5",
-    "strider-ecosystem-client": "1.2.1",
-    "strider-extension-loader": "^0.4.4",
-    "superagent": "^0.20.0",
+    "strider-ecosystem-client": "git://git@github.com:alagopus/ecosystem-client.git",
+    "strider-extension-loader": "git://git@github.com:alagopus/strider-extension-loader.git",
+    "superagent": "^5.1.0",
     "touch": "0.0.3"
   }
 }
