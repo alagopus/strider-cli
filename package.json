@@ -21,7 +21,7 @@
     "chokidar": "^2.1.8",
     "cli-table": "^0.3.0",
     "colors": "^1.1.2",
-    "debug": "^2.1.1",
+    "debug": "^3.2.6",
     "glob": "^7.1.6",
     "lodash": "^4.17.15",
     "nomnom": "^1.8.0",
@@ -30,8 +30,8 @@
     "rimraf": "^2.2.8",
     "spawn-cmd": "0.0.2",
     "step": "0.0.5",
-    "strider-ecosystem-client": "git://git@github.com:alagopus/ecosystem-client.git",
-    "strider-extension-loader": "git://git@github.com:alagopus/strider-extension-loader.git",
+    "strider-ecosystem-client": "alagopus/ecosystem-client#develop",
+    "strider-extension-loader": "alagopus/strider-extension-loader#develop",
     "superagent": "^5.1.0",
     "touch": "0.0.3"
   }
