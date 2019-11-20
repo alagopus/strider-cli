@@ -30,8 +30,8 @@
     "rimraf": "^2.2.8",
     "spawn-cmd": "0.0.2",
     "step": "0.0.5",
-    "strider-ecosystem-client": "alagopus/ecosystem-client#develop",
-    "strider-extension-loader": "alagopus/strider-extension-loader#develop",
+    "strider-ecosystem-client": "github:alagopus/ecosystem-client#develop",
+    "strider-extension-loader": "github:alagopus/strider-extension-loader#develop",
     "superagent": "^5.1.0",
     "touch": "0.0.3"
   }
